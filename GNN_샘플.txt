@@ -1,5 +1,6 @@
 
-
+Graph 데이터 둘러보기
+https://colab.research.google.com/drive/1CqwDO0u-KxCf8Zs3Vygwzd_EFGPKuZ5p?usp=sharing
 
 MLP와 GNN 비교 예제
 https://colab.research.google.com/drive/1OQTZ9Y3BA1BYpB1UNQEmGmze-VTVm5kh?usp=sharing 
