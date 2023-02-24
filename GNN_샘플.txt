@@ -1,3 +1,6 @@
+강의 평가 링크
+https://github.com/swkang1062/GNN/blob/main/GNN_%EC%83%98%ED%94%8C.txt
+
 
 Graph 데이터 둘러보기
 https://colab.research.google.com/drive/1CqwDO0u-KxCf8Zs3Vygwzd_EFGPKuZ5p?usp=sharing
