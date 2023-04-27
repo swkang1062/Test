@@ -2,7 +2,6 @@ Selective Search, IoU 실습 :
    https://colab.research.google.com/drive/1gxdw0sqMzuVVspHTuxkuQaRTXaVhgZCg?usp=sharing 
 
 
-
 RoI Pooling 실습 :  
    https://colab.research.google.com/drive/1ZLPr0Msf7oBoaZZOZxNKpWlDHel9ORJN?usp=sharing 
 
