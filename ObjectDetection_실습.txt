@@ -1,3 +1,11 @@
+Selective Search, IoU 실습 :  
+   https://colab.research.google.com/drive/1gxdw0sqMzuVVspHTuxkuQaRTXaVhgZCg?usp=sharing 
 
 
-https://velog.io/@dltjrdud37/Object-DetectionYOLO
+
+RoI Pooling 실습 :  
+   https://colab.research.google.com/drive/1ZLPr0Msf7oBoaZZOZxNKpWlDHel9ORJN?usp=sharing 
+
+
+YOLO v3 와 Anchor Box와 NMS 실습 : 
+   https://colab.research.google.com/drive/1R8v9-gwTmvD_xvzYIeksTnPewOeSH3PP?usp=sharing 
