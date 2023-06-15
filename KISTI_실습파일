@@ -1,6 +1,11 @@
+전이 학습 Basic : https://colab.research.google.com/drive/1lHrIB9nnmYC2xR51qsCF2vxWn2gd133Z?usp=sharing
+
 전이 학습 샘플 : https://colab.research.google.com/drive/15b5bV1Q7TUPKuE_aTZionfUqgbqOs9m6?usp=sharing
 
 CNN Intro : https://drive.google.com/file/d/1EdRQpJGalZ-rAxo3btC7zVRIQ23dFf42/view?usp=sharing
 
 Modern Conv Net : https://drive.google.com/file/d/18Ar4eMmFIP9sGzUddSh1L4UJlpwm6T4t/view?usp=sharing
+
+Custom Optimizer : https://towardsdatascience.com/custom-optimizer-in-tensorflow-d5b41f75644a
+                    
 
