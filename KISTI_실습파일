@@ -2,16 +2,11 @@
 
 전이학습 실습 : https://colab.research.google.com/drive/1af-9yjh0pOmOsTK6recWqyWstX9X5sro?usp=sharing 
 
-
-전이 학습 Basic : https://colab.research.google.com/drive/1lHrIB9nnmYC2xR51qsCF2vxWn2gd133Z?usp=sharing
-
-전이 학습 샘플 : https://colab.research.google.com/drive/15b5bV1Q7TUPKuE_aTZionfUqgbqOs9m6?usp=sharing
+딥러닝 시계열 : https://drive.google.com/file/d/1yFDsh2QOv-3J1OApMhKgxwYeV65YscJ3/view?usp=sharing 
 
 Axis와 Broadcast : https://colab.research.google.com/drive/19tuBEumAPouuKduzuuk2bo6RtwFyRAAR?usp=sharing
 
-CNN Intro : https://drive.google.com/file/d/1EdRQpJGalZ-rAxo3btC7zVRIQ23dFf42/view?usp=sharing
 
-Modern Conv Net : https://drive.google.com/file/d/18Ar4eMmFIP9sGzUddSh1L4UJlpwm6T4t/view?usp=sharing
 
 Custom Optimizer : https://towardsdatascience.com/custom-optimizer-in-tensorflow-d5b41f75644a
                    https://cloudxlab.com/blog/writing-custom-optimizer-in-tensorflow-and-keras/
